@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment files
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# Streamlit config file
+.streamlit/config.toml
+
+# Model and data files (optional — only if not needed in repo)
+*.pkl
+*.h5
+*.csv
+*.xlsx
+
+# MacOS and Linux junk
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Python dependencies
+*.egg-info/
+*.egg
+dist/
+build/
+
+# PDF or Report (optional)
+*.pdf
